@@ -1,3 +1,3 @@
 ### Just A Simple Discord Token Info
 
-#### Build From Src: mvn build
+#### Build From Src: mvn package
